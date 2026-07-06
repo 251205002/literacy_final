@@ -9,7 +9,7 @@ nav.floating {
 
 .first-view {
     height: calc(100vh - 110px);
-    background-image: url(../images/index/bg_main.jpg);
+    background-image: url(../images/common/Yuuei_Building.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -184,7 +184,7 @@ img {
 }
 .footer {
     color: #ffffff;
-    background-color: #24211b;
+    background-color: #000000;
     padding-top: 30px;
     padding-bottom: 15px;
     display: flex;
